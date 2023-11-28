@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 6\PhaseUnwrap_Skeleton_08_05_2022\build\CMakeFiles\f07024f30904568e2759dd6d4491621a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9FFD1BC5-88BA-385E-9412-8A912C6E661C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,39 @@
+﻿  HorizontalVerticalMultipleWaveLengthPhaseUnwrapper.cpp
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 6\PhaseUnwrap_Skeleton_08_05_2022\3rdparty\ScanLib\debugger.h(110,50): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 6\PhaseUnwrap_Skeleton_08_05_2022\3rdparty\ScanLib\debugger.h(110,34): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 6\PhaseUnwrap_Skeleton_08_05_2022\3rdparty\ScanLib\debugger.h(111,47): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 6\PhaseUnwrap_Skeleton_08_05_2022\3rdparty\ScanLib\debugger.h(111,31): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 6\PhaseUnwrap_Skeleton_08_05_2022\3rdparty\ScanLib\phase\HorizontalVerticalMultipleWaveLengthPhaseUnwrapper.cpp(152,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PhaseUnwrap.vcxproj -> C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 6\PhaseUnwrap_Skeleton_08_05_2022\build\Release\PhaseUnwrap.exe

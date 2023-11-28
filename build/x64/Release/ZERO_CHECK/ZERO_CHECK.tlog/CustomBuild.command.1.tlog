@@ -1,0 +1,10 @@
+^C:\USERS\JUSTW\DESKTOP\CS HW\CS 528 GRAPHICS\HW 6\PHASEUNWRAP_SKELETON_08_05_2022\BUILD\CMAKEFILES\F07024F30904568E2759DD6D4491621A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 6/PhaseUnwrap_Skeleton_08_05_2022" "-BC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 6/PhaseUnwrap_Skeleton_08_05_2022/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 6/PhaseUnwrap_Skeleton_08_05_2022/build/PhaseUnwrap.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
